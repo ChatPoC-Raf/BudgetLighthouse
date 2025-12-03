@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where:*)",
+      "Bash(git add:*)",
+      "Bash(uuidgen:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
